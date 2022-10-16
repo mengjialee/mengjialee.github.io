@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tfeilyu.github.io/2022/04/29/index/</loc>
+    <loc>https://mengjialee.github.io/contact/index.html</loc>
     
     <lastmod>2022-10-16</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://tfeilyu.github.io/blogs/Awesome_AutoML_on_Graphs.html</loc>
+    <loc>https://mengjialee.github.io/2022/04/29/index/</loc>
+    
+    <lastmod>2022-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mengjialee.github.io/blogs/Awesome_AutoML_on_Graphs.html</loc>
     
     <lastmod>2022-09-17</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://tfeilyu.github.io/honours/index.html</loc>
+    <loc>https://mengjialee.github.io/honours/index.html</loc>
     
     <lastmod>2022-09-17</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://tfeilyu.github.io/blogs/index.html</loc>
+    <loc>https://mengjialee.github.io/blogs/index.html</loc>
     
     <lastmod>2022-09-16</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://tfeilyu.github.io/publications/index.html</loc>
+    <loc>https://mengjialee.github.io/publications/index.html</loc>
     
     <lastmod>2022-09-09</lastmod>
     
@@ -47,16 +56,7 @@
   </url>
   
   <url>
-    <loc>https://tfeilyu.github.io/contact/index.html</loc>
-    
-    <lastmod>2022-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tfeilyu.github.io/activities/index.html</loc>
+    <loc>https://mengjialee.github.io/activities/index.html</loc>
     
     <lastmod>2022-04-28</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>https://tfeilyu.github.io/</loc>
+    <loc>https://mengjialee.github.io/</loc>
     <lastmod>2022-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
